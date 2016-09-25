@@ -1,4 +1,4 @@
-package lessonb17_Threads;
+package lesson17_Threads;
 
 public class GetTheMail implements Runnable {
 

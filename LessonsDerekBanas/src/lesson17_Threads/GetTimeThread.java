@@ -1,4 +1,4 @@
-package lessonb17_Threads;
+package lesson17_Threads;
 
 import java.util.*; //Get date and locale
 import java.text.DateFormat; 

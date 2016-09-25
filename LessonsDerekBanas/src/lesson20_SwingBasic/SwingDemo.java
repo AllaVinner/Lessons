@@ -1,4 +1,4 @@
-package lessonb20_SwingBasic;
+package lesson20_SwingBasic;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

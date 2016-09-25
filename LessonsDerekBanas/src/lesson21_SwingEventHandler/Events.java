@@ -1,4 +1,4 @@
-package lessonb21_SwingEventHandler;
+package lesson21_SwingEventHandler;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

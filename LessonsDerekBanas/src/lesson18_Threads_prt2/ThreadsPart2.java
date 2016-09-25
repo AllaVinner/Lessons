@@ -1,4 +1,4 @@
-package lessonb18_Threads_prt2;
+package lesson18_Threads_prt2;
 
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
