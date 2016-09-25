@@ -1,4 +1,4 @@
-package lesson24_Swing;
+package lesson24_SwingComboBox;
 
 import javax.swing.*;
 import java.awt.event.*;
