@@ -1,2 +1,2 @@
 # Lessons
-Different Youtube lessons
+The repository consists of the created code produced while watching episodes from
