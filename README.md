@@ -38,6 +38,3 @@ And the secound: https://www.youtube.com/user/derekbanas
   27. Swing: Trees
   47. 2D grafics
   48. Painters
-  
-  
-  
